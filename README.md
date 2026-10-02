@@ -2,6 +2,7 @@
 
 An end-to-end Customer Retention Analytics project focused on understanding customer behavior, identifying retention and churn patterns, and generating business insights using data analytics and visualization.
 
+
 ## 📌 Project Overview
 
 Customer retention is important for businesses because retaining existing customers can improve revenue and long-term customer value.
@@ -16,6 +17,8 @@ This project analyzes customer data to understand:
 - Factors that influence customer retention
 
 The project follows a complete data analytics workflow from data cleaning and analysis to dashboard creation.
+
+[View the live dashboard](https://github.com/Utkarsha-koli17/Customer_Retention_Intelligence/blob/main/dashboards/)
 
 ## 🎯 Objectives
 
