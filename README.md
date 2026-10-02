@@ -18,7 +18,7 @@ This project analyzes customer data to understand:
 
 The project follows a complete data analytics workflow from data cleaning and analysis to dashboard creation.
 
-[View the live dashboard](https://github.com/Utkarsha-koli17/Customer_Retention_Intelligence/blob/main/dashboards/)
+[View the live dashboard](https://github.com/Utkarsha-koli17/Customer_Retention_Intelligence/blob/main/dashboards/index.html)
 
 ## 🎯 Objectives
 
